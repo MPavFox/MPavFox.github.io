@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Melissa Pavez Fox</title>
+    <link>https://mpavfox.github.io/en/research/</link>
+    <description>Recent content in Research on Melissa Pavez Fox</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2026 11:36:26 +0100</lastBuildDate>
+    <atom:link href="https://mpavfox.github.io/en/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sociality and health</title>
+      <link>https://mpavfox.github.io/en/research/sociality_health/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>https://mpavfox.github.io/en/research/sociality_health/</guid>
+      <description>&lt;p&gt;Growing evidence from humans and other animals suggests that social relationships can have profound effects on health and lifespan. Individuals with stronger social ties often live longer than those that are socially isolated, yet the mechanisms underlying this relationship remain unclear. How do social interactions influence health and survival? What benefits- and costs- do individuals experience through their social relationships, and how do these ultimately shape fitness outcomes?&lt;/p&gt;
+&lt;p&gt;During my PhD, working with Prof. &lt;a href=&#34;http://www.laurenbrent.co.uk&#34;&gt;Lauren Brent&lt;/a&gt;, I studied the long-term rhesus macaque population on &lt;a href=&#34;https://cprc.rcm.upr.edu/units/cayosan&#34;&gt;Cayo Santiago&lt;/a&gt; to address these questions. I examined how both affiliative and competitive social interactions influence markers of health and survival, including immune cell counts, parasite load and injury-related mortality. This work combined long-term behavioural data, social network analyses, field observations, and physiological sampling, and was part of a large-scale collaboration between universities across Europe and North America.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooperation and competition in groups</title>
+      <link>https://mpavfox.github.io/en/research/group_organisation/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>https://mpavfox.github.io/en/research/group_organisation/</guid>
+      <description>&lt;p&gt;Cooperation underpins the formation and stability of social groups. But because resources such as food and mates are limited, individuals often have competing interests- so how is cooperation maintained?&lt;/p&gt;
+&lt;p&gt;In stable groups, individuals repeatedly interact with the same partners, giving rise to consistent patterns of relationships, or social structures. These structures both reflect past interactions and shape future ones by influencing access to resources, partners, and social support. In doing so, they alter the costs and benefits individuals experience helping to sustain cooperation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conservation and welfare</title>
+      <link>https://mpavfox.github.io/en/research/welfare_conservation/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>https://mpavfox.github.io/en/research/welfare_conservation/</guid>
+      <description>&lt;p&gt;Understanding why species live where they do- and why some evolve to live in groups- is central to both conservation and animal welfare. Ecological conditions determine where species can persist, while social conditions shape competition, stress, and access to resources. Applying this knowledge can help improve habitat protection, management strategies, and the wellbeing of social and solitary animals.&lt;/p&gt;
+&lt;p&gt;My interest in this line of research has developed over time and is rooted in work integrating ecology, behaviour, and animal welfare. During my undergraduate studies, I worked on inferring the ecology of a poorly studied endemic species in Chile and assessing its distribution and representation within protected areas. Currently, as part of my postdoctoral research, I am involved in a project examining how social conditions influence the welfare of laboratory rats, with the aim of informing management practices that promote environments more closely aligned with natural conditions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
