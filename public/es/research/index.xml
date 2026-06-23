@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Investigación on Melissa Pavez Fox</title>
+    <link>http://localhost:1313/es/research/</link>
+    <description>Recent content in Investigación on Melissa Pavez Fox</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 19 Jun 2026 11:36:26 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Socialidad y salud</title>
+      <link>http://localhost:1313/es/research/sociality_health/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>http://localhost:1313/es/research/sociality_health/</guid>
+      <description>&lt;p&gt;Creciente evidencia en humanos y otros animales sugiere que las relaciones sociales pueden tener consecuencias profundas en la salud y la longevidad. Los individuos con más conexiones sociales a menudo viven más que aquellos que están socialmente aislados. Sin embargo, los mecanismos que subyacen esta relación aún no están muy claros. ¿Cómo es que las interacciones sociales influyen en la salud y la supervivencia? ¿Qué beneficios -y costos- conllevan relaciones sociales y cómo estos pueden tener consecuencias para el fitness adaptativo?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooperación y competición en grupos</title>
+      <link>http://localhost:1313/es/research/group_organisation/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>http://localhost:1313/es/research/group_organisation/</guid>
+      <description>&lt;p&gt;La cooperación subyace a la formación y estabilidad de grupos y sociedades. Sin embargo, los recursos por los que los animales compiten- como alimento y parejas- son limitados. Entonces, ¿cómo se mantiene la cooperación?&lt;/p&gt;
+&lt;p&gt;En grupos estables, los individuos interactúan frecuentemente con los mismos compañeros, lo que da lugar a patrones consistentes de relaciones sociales, o “estructuras sociales”. Estas estructuras tanto reflejan las interacciones que les dan origen como moldean interacciones futuras influyendo en acceso a recursos, parejas y soporte social. De esta manera, modifican directamente los costos y beneficios que los individuos derivan de estas relaciones, proporcionando un mecanismo mediante el cual la cooperación puede mantenerse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conservación y bienestar animal</title>
+      <link>http://localhost:1313/es/research/welfare_conservation/</link>
+      <pubDate>Fri, 19 Jun 2026 11:36:26 +0100</pubDate>
+      <guid>http://localhost:1313/es/research/welfare_conservation/</guid>
+      <description>&lt;p&gt;Entender por que las especies viven en ambientes particulares y por que algunas se han adaptado a una vida social cuando otras no, es fundamental tanto para la conservación de especies como para politicas de bienestar animal. Las condiciones ecologicas determinan donde las especies pueden perdurar, mientras que las condiciones sociales influencian los patrones de competicion, stress y accesso a recursos. La aplicacion de este conocimiento puede ayudar a mejorar la protección de habitats, estrategias de manejo y el bienestar de animales tanto sociales como no sociales.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

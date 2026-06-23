@@ -1,0 +1,62 @@
+
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+
+/* ✅ Keep text colours from PaperMod default */
+:root {
+  --content: rgb(40, 40, 40);   /* body text only */
+}
+
+:root[data-theme="dark"] {
+  --content: rgb(230, 230, 230);
+}
+
+/* 🎯 LIGHT MODE: blue titles only */
+h1, h2, h3 {
+  color: rgb(150, 70, 70)
+}
+
+/* 🌙 DARK MODE: light yellow titles only */
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3 {
+  color: rgb(220, 200, 160);
+}
+
+/* ✅ Keep spacing + readability */
+p {
+  margin-bottom: 1.2em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+h1, h2, h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.homepage img {
+  width: 300px;         /* 👈 bigger */
+  border-radius: 150px; /* 👈 half of width = perfect circle */
+  display: block;
+  margin: 1.5rem auto;
+}
+
+
+.entry-header h2 {
+  font-size: 1.6rem;
+}
+
+.lang-menu img.flag-icon {
+  width: 18px !important;
+  height: 12px !important;
+  object-fit: contain !important;
+}

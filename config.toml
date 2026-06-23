@@ -1,0 +1,65 @@
+baseURL = "http://localhost/"
+locale = 'en-us'
+title = 'Melissa Pavez Fox'
+theme = "PaperMod"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Research"
+      url = "/research/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "Publications"
+      url = "/publications/"
+      weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 4
+
+
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+
+    [[languages.es.menu.main]]
+      name = "Inicio"
+      url = "/"
+      weight = 1
+
+    [[languages.es.menu.main]]
+      name = "Investigación"
+      url = "/research/"
+      weight = 2
+
+    [[languages.es.menu.main]]
+      name = "Publicaciones"
+      url = "/publications/"
+      weight = 3
+
+    [[languages.es.menu.main]]
+      name = "Contacto"
+      url = "/contact/"
+      weight = 4
+
+
+[params]
+  ShowLangMenu = false
+  ShowTranslations = false
+  ShowPostMeta = false
+ 
