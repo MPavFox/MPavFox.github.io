@@ -12,10 +12,10 @@ During my PhD, working with Prof. [Lauren Brent](http://www.laurenbrent.co.uk), 
 
 ### **Key publications:**
 
-[Pavez-Fox MA et al. (2022)](https://doi.org/10.1016/j.isci.2022.105454): We found that macaques with more affiliative partners (particularly close relatives) and higher social status were less likely to be injured and therefore less likely to die from injuries. However, social relationships did not improve survival after an injury had occurred. This study identified a potential mechanim through which social relationships can influence health and lifespan.
+[Pavez-Fox MA et al. (2022)](https://doi.org/10.1016/j.isci.2022.105454): We found that macaques with more affiliative partners (particularly close relatives) and higher social status were less likely to be injured and therefore less likely to die from injuries. However, social relationships did not improve survival after an injury had occurred. This study identified a potential mechanism through which social relationships can influence health and lifespan.
 
 
-[Pavez-Fox MA et al. (2024)](https://doi.org/10.1016/j.anbehav.2024.03.002): We examined how affiliative relationships and social status related to parasite infection risk. Individuals with more social partners and higher social status were less likely to be infected with *Balantidium coli*. However, social behaviour and parasite prevalence also varied following a major hurricane, suggesting that the health effects of social relatioships can depend on ecological conditions.
+[Pavez-Fox MA et al. (2024)](https://doi.org/10.1016/j.anbehav.2024.03.002): We examined how affiliative relationships and social status related to parasite infection risk. Individuals with more social partners and higher social status were less likely to be infected with *Balantidium coli*. However, social behaviour and parasite prevalence also varied following a major hurricane, suggesting that the health effects of social relationships is likely influenced by ecological conditions.
 
 
 

@@ -6,9 +6,9 @@ hideMeta = true
 weight = 3
 +++
 
-Understanding why species live where they do- and why some evolve to live in groups- is central to both conservation and animal welfare. Ecological conditions determine where species can persist, while social conditions shape competition, stress, and access to resources. Applying this knowledge can help improve habitat protection, management strategies, and the wellbeing of social and solitary animals.
+Understanding why species live in particular environments and why some have evolved to be social while others have not is essential for both species conservation and animal welfare policy. Ecological conditions determine where species can persist, while social conditions influence patterns of competition, stress, and access to resources. Applying this knowledge can help improve habitat protection, management strategies, and the welfare of both social and non-social animals.
 
-My interest in this line of research has developed over time and is rooted in work integrating ecology, behaviour, and animal welfare. During my undergraduate studies, I worked on inferring the ecology of a poorly studied endemic species in Chile and assessing its distribution and representation within protected areas. Currently, as part of my postdoctoral research, I am involved in a project examining how social conditions influence the welfare of laboratory rats, with the aim of informing management practices that promote environments more closely aligned with natural conditions.
+My interest in this line of research has developed over time and builds on work in which I have integrated ecology, behaviour, and animal welfare. During my undergraduate studies, I worked on inferring the ecology of a poorly studied endemic species in Chile, as well as assessing its distribution and representation within protected areas. Currently, as part of my postdoctoral research, I am involved in a project examining how social conditions affect the welfare of laboratory rats, with the aim of informing management practices that promote environments more closely aligned with natural conditions.
 
 ### **Key publications:**
 

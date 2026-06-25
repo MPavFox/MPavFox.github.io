@@ -1,10 +1,12 @@
-baseURL = "http://localhost/"
+baseURL = "https://mpavfox.github.io/"
 locale = 'en-us'
 title = 'Melissa Pavez Fox'
 theme = "PaperMod"
-
+relativeURLs = false
+canonifyURLs = false
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+
 
 [languages]
 
@@ -61,5 +63,17 @@ defaultContentLanguageInSubdir = true
 [params]
   ShowLangMenu = false
   ShowTranslations = false
-  ShowPostMeta = false
+
+[params.assets]
+  disableFingerprinting = true
+
+
+[security]
+  enableInlineShortcodes = false
+  disableHugoGeneratorInject = true
+
+[minify]
+  disableCSS = false
+
+
  

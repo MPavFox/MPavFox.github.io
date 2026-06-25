@@ -13,7 +13,7 @@ In stable groups, individuals repeatedly interact with the same partners, giving
 
 My research focuses on how social structures emerge and how they, in turn, shape patterns of competition and cooperation. I am particularly interested in how variation in group-level conditions influences these processes, bringing together socioecological perspectives on how environments shape social interactions with cooperation theory and its implications for how cooperation is maintained within groups.
 
-During my PhD, working with rhesus macaques on Cayo Santiago, I examined how group-level properties relate to patterns of competition and their consequences. In my current postdoctoral research, I extend this work using laboratory rat groups, where I explore how factors such as group size, life history, and cooperative behaviour contribute to the emergence of social structure under controlled conditions.
+During my PhD, working with rhesus macaques on Cayo Santiago, I examined how group-level properties relate to patterns of competition and their consequences. In my current postdoctoral research, I am extending this work using laboratory rat groups, where I explore how factors such as group size, life history, and cooperative behaviour contribute to the emergence of social structure under controlled conditions.
 
 ### **Key publications**:
 
@@ -21,7 +21,7 @@ During my PhD, working with rhesus macaques on Cayo Santiago, I examined how gro
 
 *In preparation*:
 
-Pavez-Fox MA, Schweinfurth MK (review article): We argue that life-history and demographic conditions are key to the emergence of social structure, and that interactions between structural features once groups are established, in turn, shape cooperation, conflict, and group cohesion.
+Pavez-Fox MA, Schweinfurth MK (review article): In this perspective article, we argue that characteristics associated with natural history and patterns of relatedness at the time of group formation are fundamental in determining the type of social structure that emerges. We further propose that animal societies involve interactions among different social structures that are often overlooked, but which have important implications for the maintenance of cooperation, the reduction of conflict, and group cohesion.
 
 
 [Pavez-Fox MA et al. (OSF)](https://osf.io/kh8za/overview): We test key predictions from cooperation theory, suggesting that subgroup structure within groups (assortative mixing) can emerge through partner choice for cooperative interactions.
